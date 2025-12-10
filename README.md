@@ -29,7 +29,7 @@ A DevOps weather data collection system demonstrating:
 
 ### System Architecture Diagram
 
-![Weather Data Collection System Architecture](architecture_diagram.png)
+![Weather Data Collection System Architecture](architecture_diagram.drawio.png)
 
 The diagram above shows the complete system architecture including:
 - **Environment Configuration** - Secure credential management with .env files
