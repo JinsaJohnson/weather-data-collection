@@ -167,14 +167,14 @@ Processing: New York
 
 ```
 dec-8-project/
-├── weather_collector.py          # Main application
-├── infrastructure_setup.py       # Infrastructure as Code (AWS S3 setup)
-├── verify_setup.py               # Verification script
-├── requirements.txt              # Python dependencies
-├── .env.example                  # Environment template
-├── .gitignore                    # Git ignore
-├── README.md                     # Documentation
-└── architecture_diagram.png      # System architecture diagram
+├── weather_collector.py              # Main application
+├── infrastructure_setup.py           # Infrastructure as Code (AWS S3 setup)
+├── verify_setup.py                   # Verification script
+├── requirements.txt                  # Python dependencies
+├── .env.example                      # Environment template
+├── .gitignore                        # Git ignore
+├── README.md                         # Documentation
+└── architecture_diagram.drawio.png   # System architecture diagram
 ``` "humidity": 65,
     "pressure": 1013,
     "weather_condition": "Clouds",
@@ -213,7 +213,7 @@ git push -u origin main
 
 ## Architecture Diagram
 
-The complete system architecture is visualized in `architecture_diagram.png` (shown above in the Technical Architecture section).
+The complete system architecture is visualized in `architecture_diagram.drawio.png` (shown above in the Technical Architecture section).
 
 ---
 
