@@ -59,7 +59,7 @@ Before you begin, ensure you have:
 
 ```bash
 git clone <your-repository-url>
-cd dec-8-project
+cd weather-data-collection
 ```
 
 ### Step 2: Create Virtual Environment
@@ -166,7 +166,7 @@ Processing: New York
 ## Project Structure
 
 ```
-dec-8-project/
+weather-data-collection/
 ├── weather_collector.py              # Main application
 ├── infrastructure_setup.py           # Infrastructure as Code (AWS S3 setup)
 ├── verify_setup.py                   # Verification script
